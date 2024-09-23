@@ -1,0 +1,27 @@
+# Ignorar el entorno virtual
+simulaicon-env/
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar archivos de configuración del editor
+.vscode/
+.idea/
+*.swp
+
+# Ignorar archivos de Jupyter Notebook checkpoints
+notebook/.ipynb_checkpoints/
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de log y temporal
+*.log
+*.tmp
+
+# Ignorar archivos de configuración de entornos específicos
+*.env
+.env.local
